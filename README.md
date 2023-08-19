@@ -6,10 +6,12 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
+- 👨‍💻  Engineering Student (2020-2024) : Haldia Institute of Technology (Haldia, West Bengal)
 
+- 🌟 Vice President : AIML CLUB ( Haldia Institute of Technology )
+  
 - ⚡ Fun fact: I am verse maker . Read my [poetry](http://rishiratan.blogspot,com)  
   
-
   
 
 <br/>  

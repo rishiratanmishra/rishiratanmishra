@@ -1,4 +1,3 @@
-![](https://rishiratanmishra.github.io/portfolio/images/rishi-sign.png)  
 
 
 ### I'm Rishi Ratan Mishra, Full-stack freelance developer 👨‍💻  

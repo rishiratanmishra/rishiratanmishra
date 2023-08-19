@@ -1,14 +1,7 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+![](https://rishiratanmishra.github.io/portfolio/images/rishi-sign.png)  
 
-### <div align="center">I'm Rishi Ratan Mishra,  Full-stack freelance developer 👨‍💻 </div>  
-  
 
-- 🔭 I’m currently working on [ZOLAHA](https://zolaha.com)  
-  
-
+### I'm Rishi Ratan Mishra, Full-stack freelance developer 👨‍💻  
 - 🌱 I’m currently learning Nextjs.  
   
 
@@ -16,6 +9,8 @@
   
 
 - ⚡ Fun fact: I am verse maker . Read my [poetry](http://rishiratan.blogspot,com)  
+  
+
   
 
 <br/>  
@@ -111,12 +106,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishiratanmishra&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

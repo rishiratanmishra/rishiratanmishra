@@ -10,7 +10,7 @@
 
 - 🌟 Vice President : AIML CLUB ( Haldia Institute of Technology )
   
-- ⚡ Fun fact: I am verse maker . Read my [poetry](http://rishiratan.blogspot,com)  
+- ⚡ Fun fact: I am a verse maker . Read my [poetry](http://rishiratan.blogspot,com)  
   
   
 

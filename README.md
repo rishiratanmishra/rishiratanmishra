@@ -1,6 +1,6 @@
 
 
-### I'm Rishi Ratan Mishra, Full-stack freelance developer 👨‍💻  
+### I'm Rishi Ratan Mishra, Full-stack developer 👨‍💻  
 - 🌱 I’m currently learning Nextjs.  
   
 

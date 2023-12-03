@@ -11,7 +11,8 @@
 - 🌟 Vice President : AIML CLUB ( Haldia Institute of Technology )
   
 - ⚡ Fun fact: I am a verse maker . Read my [poetry](http://rishiratan.blogspot,com)  
-Certificate: 
+
+### Certificate: 
 - 🍵 Java J2EE - Wipro Talent Next (Java Full Stack Development) 
 - [Verify Certificate](https://drive.google.com/file/d/1jzd9fn8S47hg7Ff1XzFLYIpw0ld2DRNL/view?usp=drive_link)
   

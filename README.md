@@ -1,12 +1,3 @@
-<!-- Typing Animated Header -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Rishi+Ratan+Mishra+👋;Full-Stack+Developer;MERN+%7C+Next.js+%7C+WebRTC+%7C+Express.js;I+build+scalable+real-time+applications+⚡">
-  </a>
-</h1>
-
----
-
 ### 👨‍💻 About Me
 
 I am a Full-Stack Developer with a strong focus on scalable web applications, microservices, and real-time communication systems.  
